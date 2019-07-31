@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 import gzip
 from itertools import islice
 import os

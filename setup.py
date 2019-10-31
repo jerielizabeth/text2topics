@@ -17,7 +17,7 @@ setup(name='text2topics',
       packages=['text2topics'],
       install_requires=[
           'beautifulsoup4 == 4.5.3',
-          'nltk == 3.2.1',
+          'nltk == 3.4.5',
           'pandas == 0.23.4',
           'gensim == 3.1.0',
           'textblob == 0.15.1',
